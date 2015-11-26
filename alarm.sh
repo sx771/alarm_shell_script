@@ -78,6 +78,7 @@ preset_profile_function ()	{
 }
 make_custom_profile ()	{
 	echo "CUSTOM PROFILE MAKER"
+	# TODO : will add tone, custome notification
 	return
 }
 
