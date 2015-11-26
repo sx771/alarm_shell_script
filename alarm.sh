@@ -9,8 +9,8 @@ declare -a preset
 preset[0]="Get back to work"
 preset[1]="Get back to code"
 preset[2]="Enough browsing 4chan man!"
-preset[3]="Get your shit together, faggot!"
-preset[4]="Now move your fucking ass!!"
+preset[3]="Check your reminder!"
+preset[4]="What's next!!"
 preset[5]="Ok! Times up !!!"
 
 preset_list ()	{
